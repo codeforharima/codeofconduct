@@ -38,4 +38,4 @@ Code for Harima は、性別、性同一性および表現、性的指向、身�
 本文：Code for Harima コミュニティのイベントにおいて、ハラスメントの事象があったので報告します。（氏名、場所、日付及びイベント名）
 宛先：codeforharima@gmail.com
 
-上記の文書は、Code for Japan の行動規範 および Code for Kobe の行動規範に準拠して作成しています。
+上記の文書は、Code for Japan の行動規範に準拠して作成しています。
